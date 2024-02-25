@@ -3,7 +3,7 @@ title:               Brainish
 tagline:             'Language Of Thought'
 description:         ''
 url:                 jan21.github.io/brainish/
-baseurl:             'jan21.github.io/brainish/'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
